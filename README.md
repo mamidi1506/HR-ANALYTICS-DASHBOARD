@@ -41,3 +41,5 @@ Power BI Desktop
 DAX (Data Analysis Expressions)
 
 Excel / CSV Data Preparation
+![Screenshot 2025-07-05 190210](https://github.com/user-attachments/assets/cacf7223-2569-446b-ab8d-e4faac335257)
+
