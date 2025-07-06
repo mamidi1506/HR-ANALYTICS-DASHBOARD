@@ -45,5 +45,4 @@ Excel / CSV Data Preparation
 
 ![Screenshot 2025-07-05 191923](https://github.com/user-attachments/assets/922cfa56-cd3b-4f46-bb44-e7a0c4cd345c)
 
-![Screenshot 2025-07-05 190210](https://github.com/user-attachments/assets/cacf7223-2569-446b-ab8d-e4faac335257)
 
